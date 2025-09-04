@@ -1,6 +1,20 @@
-# Hi there, I'm Devansh Bansal 👋  
+<!-- Header with Image + Typing Effect -->
+<table>
+  <tr>
+    <td>
+      <!-- Your Profile Image -->
+      <img src="https://avatars.githubusercontent.com/u/180825572?v=4" width="200" style="border-radius:50%;" />
+    </td>
+    <td>
+      <!-- Typing Animation -->
+      <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=false&vCenter=true&width=600&lines=Hi+I'm+Devansh+Bansal+👋;Full+Stack+Developer+%7C+ML+Enthusiast;Always+learning+new+things!" />
+    </td>
+  </tr>
+</table>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=1000&lines=Hi+I'm+Devansh+Bansal+👋;Full+Stack+Developer+%7C+ML+Enthusiast;Always+learning+new+things!)
+---
+
+# Hi there, I'm Devansh Bansal 👋  
 
 🎓 Student at **IIIT Sonepat** | 💻 Passionate about **Web Development, DSA, Machine Learning & Artificial Intelligence**  
 
@@ -35,16 +49,17 @@
 ---
 
 ## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshbansal16&layout=compact&theme=radical) 
 ![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshbansal16&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshbansal16&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devanshbansal16&theme=radical)
+ 
 
 ---
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-bansal-53aa45289)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/devanshbansal16)  
-📧 Email: devanshbansal000@gmail.com  
+📧 Email: **devanshbansal000@gmail.com**  
 
 ---
+
 ✨ *“Code. Learn. Build. Repeat.”* ✨
